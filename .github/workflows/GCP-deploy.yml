@@ -1,4 +1,4 @@
-name: Docker
+name: Docker-Deploy-Example
 
 on:
    # Allows you to run this workflow manually from the Actions tab
