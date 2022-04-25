@@ -4,6 +4,8 @@
 
 This repository is a complement to my medium article. If you wanna follow step by step, check [my writing]().
 
+## 2022/04/25 RJP entered this comment to test the push of code to this repository
+
 ## Architecture
 
 This is how our infrastructure works:
